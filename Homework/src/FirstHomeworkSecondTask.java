@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class homework2 {
+public class FirstHomeworkSecondTask {
     public static void main(String[] args) {
         //Вывести все простые числа от 1 до 1000
         int resultsimple = 0;

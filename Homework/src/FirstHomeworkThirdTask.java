@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class homework3 {
+public class FirstHomeworkThirdTask {
     public static void main(String[] args){
         double firstNumber = 0;
         double secondNumber = 0;
