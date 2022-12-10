@@ -3,7 +3,9 @@ import java.util.*;
 public class FifthHomeworkSecondTask {
 
     public List<String> emloyersList() {
-        List<String> result = Arrays.asList("Иванов Иван", "Васильев Петр", "Семенова Наталья", "Иванов Петр", "Сергеева Наталья", "Николаев Петр");
+        List<String> result = Arrays.asList("Иванов Иван", "Васильев Петр",
+                "Семенова Наталья", "Иванов Петр", "Сергеева Наталья",
+                "Николаев Петр");
         return result;
 
     }

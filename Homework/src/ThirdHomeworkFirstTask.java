@@ -5,7 +5,7 @@ public class ThirdHomeworkFirstTask {
     public static void main(String[] args) {
         ArrayList<Integer> arr;
         GenerateArray generateArray = new GenerateArray();
-        arr = generateArray.NewArray();
+        arr = generateArray.newArray();
         Merge(arr);
 
     }
