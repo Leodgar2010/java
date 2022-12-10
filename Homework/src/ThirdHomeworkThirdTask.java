@@ -5,7 +5,7 @@ public class ThirdHomeworkThirdTask {
     public static void main(String[] args) {
         ArrayList<Integer> arr;
         GenerateArray generateArray = new GenerateArray();
-        arr = generateArray.NewArray();
+        arr = generateArray.newArray();
         System.out.println(Collections.max(arr));
         System.out.println(Collections.min(arr));
         System.out.println(Average(arr));
